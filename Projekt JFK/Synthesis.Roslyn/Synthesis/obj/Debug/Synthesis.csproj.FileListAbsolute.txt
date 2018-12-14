@@ -1,0 +1,27 @@
+C:\Users\mkubr\Downloads\Mierzej\Synthesis.Roslyn\Synthesis\bin\Debug\Class.cs
+C:\Users\mkubr\Downloads\Mierzej\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.exe.config
+C:\Users\mkubr\Downloads\Mierzej\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.exe
+C:\Users\mkubr\Downloads\Mierzej\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.pdb
+C:\Users\mkubr\Downloads\Mierzej\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.csprojAssemblyReference.cache
+C:\Users\mkubr\Downloads\Mierzej\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.exe.config
+C:\Users\mkubr\Downloads\Mierzej\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.csproj.CoreCompileInputs.cache
+C:\Users\mkubr\Downloads\Mierzej\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.exe
+C:\Users\mkubr\Downloads\Mierzej\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.pdb
+C:\Users\mkubr\Desktop\Projek JFK\Synthesis.Roslyn\Synthesis\bin\Debug\Class.cs
+C:\Users\mkubr\Desktop\Projek JFK\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.exe.config
+C:\Users\mkubr\Desktop\Projek JFK\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.exe
+C:\Users\mkubr\Desktop\Projek JFK\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.pdb
+C:\Users\mkubr\Desktop\Projek JFK\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.csprojAssemblyReference.cache
+C:\Users\mkubr\Desktop\Projek JFK\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.exe.config
+C:\Users\mkubr\Desktop\Projek JFK\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.csproj.CoreCompileInputs.cache
+C:\Users\mkubr\Desktop\Projek JFK\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.exe
+C:\Users\mkubr\Desktop\Projek JFK\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.pdb
+C:\Users\mkubr\Desktop\JFK\Synthesis.Roslyn\Synthesis\bin\Debug\Class.cs
+C:\Users\mkubr\Desktop\JFK\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.exe.config
+C:\Users\mkubr\Desktop\JFK\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.exe
+C:\Users\mkubr\Desktop\JFK\Synthesis.Roslyn\Synthesis\bin\Debug\Synthesis.pdb
+C:\Users\mkubr\Desktop\JFK\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.csprojAssemblyReference.cache
+C:\Users\mkubr\Desktop\JFK\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.exe.config
+C:\Users\mkubr\Desktop\JFK\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.csproj.CoreCompileInputs.cache
+C:\Users\mkubr\Desktop\JFK\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.exe
+C:\Users\mkubr\Desktop\JFK\Synthesis.Roslyn\Synthesis\obj\Debug\Synthesis.pdb
